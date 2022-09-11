@@ -1,0 +1,14 @@
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/cleanliness_app
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/Ubuntu-Title.ttf
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/sanchak/StudioProjects/cleanliness_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.png

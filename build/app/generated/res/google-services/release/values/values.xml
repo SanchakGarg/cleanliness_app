@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">745488799664-ineij12nfdbnk5frvirr4gpropsam9bb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">745488799664</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmdl3ncY2sRqmEDRTeEEiiX2CmXHpe6Ek</string>
+    <string name="google_app_id" translatable="false">1:745488799664:android:c6134d85ff4d6f10a86875</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmdl3ncY2sRqmEDRTeEEiiX2CmXHpe6Ek</string>
+    <string name="google_storage_bucket" translatable="false">cleanliness-35631.appspot.com</string>
+    <string name="project_id" translatable="false">cleanliness-35631</string>
+</resources>

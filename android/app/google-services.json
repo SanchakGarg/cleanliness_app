@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745488799664",
+    "project_id": "cleanliness-35631",
+    "storage_bucket": "cleanliness-35631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745488799664:android:c6134d85ff4d6f10a86875",
+        "android_client_info": {
+          "package_name": "com.example.cleanliness_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745488799664-ineij12nfdbnk5frvirr4gpropsam9bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmdl3ncY2sRqmEDRTeEEiiX2CmXHpe6Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745488799664-ineij12nfdbnk5frvirr4gpropsam9bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
