@@ -1,3 +1,4 @@
+import 'package:cleanliness_app/chart.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -124,9 +125,18 @@ class HomePage extends StatelessWidget {
                         ),
                         child: ElevatedButton(style:ButtonStyle(shape:MaterialStateProperty.all(StadiumBorder()),backgroundColor: MaterialStateProperty.all(HexColor("99E1D9"))),onPressed: (){Navigator.push(context, MaterialPageRoute(builder: (context)=> Clogin()));}, child: Center(child: RichText(text: TextSpan(style: TextStyle(fontSize: width*0.05,color: Colors.black,fontFamily: 'ubuntu-Title'),text:"cleanliness form"),),),
                         ),),
+                        Padding(padding: EdgeInsets.fromLTRB(0, 10, 0, 0),child: Container(
+                          height: height*0.1,width: width*0.7,
+                          decoration: BoxDecoration(color: HexColor("99E1D9"),
+                              borderRadius: BorderRadius.circular(45),
+                              boxShadow: [BoxShadow(color: HexColor("99E1D9"),blurRadius: 15,offset: Offset(5,5)) ]
+                          ),
+                          child: ElevatedButton(style:ButtonStyle(shape:MaterialStateProperty.all(StadiumBorder()),backgroundColor: MaterialStateProperty.all(HexColor("99E1D9"))),onPressed: (){Navigator.push(context, MaterialPageRoute(builder: (context)=> chart()));}, child: Center(child: RichText(text: TextSpan(style: TextStyle(fontSize: width*0.05,color: Colors.black,fontFamily: 'ubuntu-Title'),text:"create chart"),),),
+                          ),),
+                            )
 
-
-                                          ],)),
+                      ],),
+                           ),
                       //Row for alignment
                       Row()
 
